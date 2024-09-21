@@ -1,0 +1,39 @@
+[
+    {
+      "id": 0,
+      "code": "9000",
+      "status": false,
+      "message": "Action failed. Please check if you're Authenticated and have Sufficient Permissions"
+    },
+    {
+      "id": 1,
+      "code": "9001",
+      "status": true,
+      "message": "Operation Successful"
+    },
+    {
+      "id": 2,
+      "code": "9002",
+      "status": false,
+      "message": "Invalid input provided. Please review and try again."
+    },
+    {
+      "id": 3,
+      "code": "9003",
+      "status": false,
+      "message": "“Sorry ! An error occurred while performing this action”"
+    },
+    {
+      "id": 4,
+      "code": "9004",
+      "status": false,
+      "message": "Duplicate Record, Data already exists."
+    },
+    {
+      "id": 5,
+      "code": "9005",
+      "status": false,
+      "message": "Operation Failed, Please review and try again."
+    }
+
+]
